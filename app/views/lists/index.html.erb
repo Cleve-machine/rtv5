@@ -1,7 +1,7 @@
 <p id="notice"><%= notice %></p>
 
-<h1>Lists</h1>
-<%= link_to 'New List', new_list_path %>
+<h1>Routes to Value Board</h1>
+<%= link_to 'Add New Column', new_list_path %>
 <hr />
 <%= tag.div id: :boards, data: { lists: @lists.to_json(include: :cards) } %>
 
