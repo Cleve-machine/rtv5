@@ -1,17 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
 
 * Ruby version
+Rub 2.5 and Rails 5.2.
 
 * System dependencies
+yarn, redis, foreman;
+
 
 * Configuration
 
 * Database creation
+Postgresql
 
 * Database initialization
 
