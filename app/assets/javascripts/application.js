@@ -14,8 +14,5 @@
 //= require jquery
 //= require popper
 //= require bootstrap
-//= require data-confirm-modal
-//= require local-time
-//= require activestorage
 //= require turbolinks
 //= require_tree .
